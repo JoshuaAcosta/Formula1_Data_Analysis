@@ -5,6 +5,16 @@ name = "pypi"
 
 [packages]
 pandas = "*"
+sqlalchemy = "~=1.4"
+matplotlib = "~=3.5.3"
+numpy = "*"
+packaging = "*"
+kiwisolver = "*"
+cycler = "*"
+pyparsing = "*"
+pillow = "*"
+fonttools = "*"
+python-dateutil = "*"
 
 [dev-packages]
 
